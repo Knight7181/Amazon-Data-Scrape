@@ -1,2 +1,3 @@
 # Amazon-Data-Scrape
 This script automates the process of searching for products on Amazon, navigating to their individual pages, and extracting specific product details. It then stores this data in a CSV file for further analysis or use.
+I was provided with the amazon link which was "https://www.amazon.in/s?k=bags&crid=2M096C61O4MLT&qid=1653308124&sprefix=ba%2Caps%2C283&ref=sr_pg_1" giving error after extracting few products data . So, I replaced the url with the similr url "https://www.amazon.in/s?k=ps5&crid=2F3FWY7X1TZF2&sprefix=ps5%2Caps%2C207&ref=nb_sb_noss_1" , This url is similr to the provided one its just different product (PS5)
